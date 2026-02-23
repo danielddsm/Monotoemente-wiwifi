@@ -1,0 +1,5 @@
+{
+  "name": "NOC WiFi Monitoring Dashboard",
+  "description": "Real-time monitoring dashboard for school WiFi networks with manager contact integration.",
+  "requestFramePermissions": []
+}
